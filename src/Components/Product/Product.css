@@ -1,0 +1,28 @@
+.product{
+    width: 310px;
+    height: 510px;
+    border: 2px solid rgb(185, 122, 249);
+    border-radius: 8px;
+    position: relative;
+}
+
+.product img{
+    width: 290px;
+    height: 290px;
+    margin: 6px;
+    border-radius: 8px;
+}
+.product-info{
+    margin-left: 20px;
+}
+.product-info h4{
+   margin-top: 0px;
+
+}
+.add-btn{
+    background-color: rgb(244, 231, 138);
+    height: 40px;
+    width: 100%;
+    position: absolute;
+    bottom: 0px;
+}
